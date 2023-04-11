@@ -6,7 +6,7 @@ import matplotlib.pylab as plt
 import pickle
 import joblib
 
-st.title("Tashkent House Price Prediction")
+st.title("Indian Flight Ticket Price Prediction")
 
 flight_df = pd.read_csv("flight_data.csv")
 
